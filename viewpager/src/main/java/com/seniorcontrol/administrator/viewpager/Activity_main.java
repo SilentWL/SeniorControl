@@ -32,7 +32,6 @@ public class Activity_main extends FragmentActivity{
         mPageIndicator.setViewPager(mViewPager, 0);
     }
 
-
     private void setTranslucentStatus()
     {
         if (Build.VERSION.SDK_INT >= Build.VERSION_CODES.KITKAT) {
