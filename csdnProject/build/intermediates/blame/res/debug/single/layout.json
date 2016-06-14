@@ -1,0 +1,14 @@
+[
+    {
+        "merged": "E:\\AndroidStudy\\SeniorControl\\csdnProject\\build\\intermediates\\res\\merged\\debug\\layout\\activity_main.xml",
+        "source": "E:\\AndroidStudy\\SeniorControl\\csdnProject\\src\\main\\res\\layout\\activity_main.xml"
+    },
+    {
+        "merged": "E:\\AndroidStudy\\SeniorControl\\csdnProject\\build\\intermediates\\res\\merged\\debug\\layout\\head_title_panel.xml",
+        "source": "E:\\AndroidStudy\\SeniorControl\\csdnProject\\src\\main\\res\\layout\\head_title_panel.xml"
+    },
+    {
+        "merged": "E:\\AndroidStudy\\SeniorControl\\csdnProject\\build\\intermediates\\res\\merged\\debug\\layout\\tab_item_fragment_main.xml",
+        "source": "E:\\AndroidStudy\\SeniorControl\\csdnProject\\src\\main\\res\\layout\\tab_item_fragment_main.xml"
+    }
+]

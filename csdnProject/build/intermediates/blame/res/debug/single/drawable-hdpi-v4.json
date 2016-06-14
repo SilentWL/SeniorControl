@@ -1,0 +1,42 @@
+[
+    {
+        "merged": "E:\\AndroidStudy\\SeniorControl\\csdnProject\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\vpi__tab_unselected_holo.9.png",
+        "source": "E:\\AndroidStudy\\SeniorControl\\csdnProject\\build\\intermediates\\exploded-aar\\SeniorControl\\viewPagerIndicator_library\\unspecified\\res\\drawable-hdpi-v4\\vpi__tab_unselected_holo.9.png"
+    },
+    {
+        "merged": "E:\\AndroidStudy\\SeniorControl\\csdnProject\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\vpi__tab_selected_focused_holo.9.png",
+        "source": "E:\\AndroidStudy\\SeniorControl\\csdnProject\\build\\intermediates\\exploded-aar\\SeniorControl\\viewPagerIndicator_library\\unspecified\\res\\drawable-hdpi-v4\\vpi__tab_selected_focused_holo.9.png"
+    },
+    {
+        "merged": "E:\\AndroidStudy\\SeniorControl\\csdnProject\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\vpi__tab_selected_holo.9.png",
+        "source": "E:\\AndroidStudy\\SeniorControl\\csdnProject\\build\\intermediates\\exploded-aar\\SeniorControl\\viewPagerIndicator_library\\unspecified\\res\\drawable-hdpi-v4\\vpi__tab_selected_holo.9.png"
+    },
+    {
+        "merged": "E:\\AndroidStudy\\SeniorControl\\csdnProject\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\ic_launcher.png",
+        "source": "E:\\AndroidStudy\\SeniorControl\\csdnProject\\src\\main\\res\\drawable-hdpi\\ic_launcher.png"
+    },
+    {
+        "merged": "E:\\AndroidStudy\\SeniorControl\\csdnProject\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\vpi__tab_selected_pressed_holo.9.png",
+        "source": "E:\\AndroidStudy\\SeniorControl\\csdnProject\\build\\intermediates\\exploded-aar\\SeniorControl\\viewPagerIndicator_library\\unspecified\\res\\drawable-hdpi-v4\\vpi__tab_selected_pressed_holo.9.png"
+    },
+    {
+        "merged": "E:\\AndroidStudy\\SeniorControl\\csdnProject\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\vpi__tab_unselected_pressed_holo.9.png",
+        "source": "E:\\AndroidStudy\\SeniorControl\\csdnProject\\build\\intermediates\\exploded-aar\\SeniorControl\\viewPagerIndicator_library\\unspecified\\res\\drawable-hdpi-v4\\vpi__tab_unselected_pressed_holo.9.png"
+    },
+    {
+        "merged": "E:\\AndroidStudy\\SeniorControl\\csdnProject\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\base_action_bar_back_divider.png",
+        "source": "E:\\AndroidStudy\\SeniorControl\\csdnProject\\src\\main\\res\\drawable-hdpi\\base_action_bar_back_divider.png"
+    },
+    {
+        "merged": "E:\\AndroidStudy\\SeniorControl\\csdnProject\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\biz_navigation_tab_news_pressed.png",
+        "source": "E:\\AndroidStudy\\SeniorControl\\csdnProject\\src\\main\\res\\drawable-hdpi\\biz_navigation_tab_news_pressed.png"
+    },
+    {
+        "merged": "E:\\AndroidStudy\\SeniorControl\\csdnProject\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\init_pic.jpg",
+        "source": "E:\\AndroidStudy\\SeniorControl\\csdnProject\\src\\main\\res\\drawable-hdpi\\init_pic.jpg"
+    },
+    {
+        "merged": "E:\\AndroidStudy\\SeniorControl\\csdnProject\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\vpi__tab_unselected_focused_holo.9.png",
+        "source": "E:\\AndroidStudy\\SeniorControl\\csdnProject\\build\\intermediates\\exploded-aar\\SeniorControl\\viewPagerIndicator_library\\unspecified\\res\\drawable-hdpi-v4\\vpi__tab_unselected_focused_holo.9.png"
+    }
+]

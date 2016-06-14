@@ -31,7 +31,7 @@ public class Activity_main extends FragmentActivity{
         super.onCreate(savedInstanceState);
         setTranslucentStatus();
         setContentView(R.layout.activity_main);
-ADF
+
         mPageIndicator = (TabPageIndicator)findViewById(R.id.page_indicator);
         mViewPager = (ViewPager)findViewById(R.id.view_pager);
 
