@@ -1,0 +1,27 @@
+<resources>
+
+    <!-- Base application theme. -->
+    <style name="AppTheme" parent="Theme.AppCompat.Light.DarkActionBar">
+        <!-- Customize your theme here. -->
+        <item name="colorPrimary">@color/colorPrimary</item>
+        <item name="colorPrimaryDark">@color/colorPrimaryDark</item>
+        <item name="colorAccent">@color/colorAccent</item>
+    </style>
+
+    <attr name="chessPiecesWidth" format="dimension"/>
+    <attr name="chessPiecesSpacing" format="dimension"/>
+    <attr name="verticalGridCount" format="integer"/>
+    <attr name="horizontalGridCount" format="integer"/>
+    <attr name="gridWidth" format="dimension"/>
+    <attr name="gridColor" format="color"/>
+
+    <declare-styleable name="GobangView">
+        <attr name="chessPiecesWidth"/>
+        <attr name="chessPiecesSpacing"/>
+        <attr name="verticalGridCount"/>
+        <attr name="horizontalGridCount"/>
+        <attr name="gridWidth"/>
+        <attr name="gridColor"/>
+    </declare-styleable>
+    
+</resources>
