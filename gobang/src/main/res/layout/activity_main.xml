@@ -8,16 +8,31 @@
     android:paddingTop="@dimen/activity_vertical_margin"
     tools:context="com.seniorcontrol.administrator.gobang.MainActivity">
 
+    <Button
+        android:id="@+id/Restart"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="Restart"/>
+    <Button
+        android:id="@+id/Back"
+        android:layout_marginLeft="10dp"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_toRightOf="@id/Restart"
+        android:text="Back"/>
     <com.seniorcontrol.administrator.gobang.GobangView
-        android:layout_width="match_parent"
-        android:layout_height="match_parent"
-        android:padding="10dp"
+        android:id="@+id/GobangView"
+        android:layout_below="@id/Restart"
+        android:layout_width="wrap_content"
+        android:layout_height="600dp"
+        android:layout_centerInParent="true"
+        android:padding="30dp"
         android:background="@drawable/bg"
         GobangAttrs:chessPiecesWidth="20dp"
         GobangAttrs:chessPiecesSpacing="30dp"
-        GobangAttrs:horizontalGridCount="12"
-        GobangAttrs:verticalGridCount="12"
-        GobangAttrs:gridColor="#ff000000"
-        GobangAttrs:gridWidth="5dp"
+        GobangAttrs:horizontalGridCount="30"
+        GobangAttrs:verticalGridCount="30"
+        GobangAttrs:gridColor="#88222429"
+        GobangAttrs:gridWidth="3dp"
         />
 </RelativeLayout>
