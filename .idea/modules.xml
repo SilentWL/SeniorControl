@@ -3,10 +3,30 @@
   <component name="ProjectModuleManager">
     <modules>
       <module fileurl="file://$PROJECT_DIR$/SeniorControl.iml" filepath="$PROJECT_DIR$/SeniorControl.iml" />
+      <module fileurl="file://$PROJECT_DIR$/aidl/aidl.iml" filepath="$PROJECT_DIR$/aidl/aidl.iml" />
+      <module fileurl="file://$PROJECT_DIR$/aidlclient/aidlclient.iml" filepath="$PROJECT_DIR$/aidlclient/aidlclient.iml" />
       <module fileurl="file://$PROJECT_DIR$/app/app.iml" filepath="$PROJECT_DIR$/app/app.iml" />
       <module fileurl="file://$PROJECT_DIR$/csdnProject/csdnProject.iml" filepath="$PROJECT_DIR$/csdnProject/csdnProject.iml" />
+      <module fileurl="file://$PROJECT_DIR$/customview/customview.iml" filepath="$PROJECT_DIR$/customview/customview.iml" />
+      <module fileurl="file://$PROJECT_DIR$/eventbus/eventbus.iml" filepath="$PROJECT_DIR$/eventbus/eventbus.iml" />
+      <module fileurl="file://$PROJECT_DIR$/expandablelistview/expandablelistview.iml" filepath="$PROJECT_DIR$/expandablelistview/expandablelistview.iml" />
+      <module fileurl="file://$PROJECT_DIR$/gobang/gobang.iml" filepath="$PROJECT_DIR$/gobang/gobang.iml" />
+      <module fileurl="file://$PROJECT_DIR$/httpregist/httpregist.iml" filepath="$PROJECT_DIR$/httpregist/httpregist.iml" />
+      <module fileurl="file://$PROJECT_DIR$/imagewall/imagewall.iml" filepath="$PROJECT_DIR$/imagewall/imagewall.iml" />
+      <module fileurl="file://$PROJECT_DIR$/navigationview/navigationview.iml" filepath="$PROJECT_DIR$/navigationview/navigationview.iml" />
+      <module fileurl="file://$PROJECT_DIR$/progressbar/progressbar.iml" filepath="$PROJECT_DIR$/progressbar/progressbar.iml" />
+      <module fileurl="file://$PROJECT_DIR$/progressview/progressview.iml" filepath="$PROJECT_DIR$/progressview/progressview.iml" />
+      <module fileurl="file://$PROJECT_DIR$/recyclerview/recyclerview.iml" filepath="$PROJECT_DIR$/recyclerview/recyclerview.iml" />
+      <module fileurl="file://$PROJECT_DIR$/scrathcard/scrathcard.iml" filepath="$PROJECT_DIR$/scrathcard/scrathcard.iml" />
+      <module fileurl="file://$PROJECT_DIR$/upload_from_break/upload_from_break.iml" filepath="$PROJECT_DIR$/upload_from_break/upload_from_break.iml" />
       <module fileurl="file://$PROJECT_DIR$/viewPagerIndicator_library/viewPagerIndicator_library.iml" filepath="$PROJECT_DIR$/viewPagerIndicator_library/viewPagerIndicator_library.iml" />
+      <module fileurl="file://$PROJECT_DIR$/viewdrag/viewdrag.iml" filepath="$PROJECT_DIR$/viewdrag/viewdrag.iml" />
+      <module fileurl="file://$PROJECT_DIR$/viewgroup/viewgroup.iml" filepath="$PROJECT_DIR$/viewgroup/viewgroup.iml" />
       <module fileurl="file://$PROJECT_DIR$/viewpager/viewpager.iml" filepath="$PROJECT_DIR$/viewpager/viewpager.iml" />
+      <module fileurl="file://$PROJECT_DIR$/vollley/vollley.iml" filepath="$PROJECT_DIR$/vollley/vollley.iml" />
+      <module fileurl="file://$PROJECT_DIR$/volumechangecontrol/volumechangecontrol.iml" filepath="$PROJECT_DIR$/volumechangecontrol/volumechangecontrol.iml" />
+      <module fileurl="file://$PROJECT_DIR$/webview/webview.iml" filepath="$PROJECT_DIR$/webview/webview.iml" />
+      <module fileurl="file://$PROJECT_DIR$/zoomimage/zoomimage.iml" filepath="$PROJECT_DIR$/zoomimage/zoomimage.iml" />
     </modules>
   </component>
 </project>

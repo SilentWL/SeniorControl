@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    xmlns:wl="http://schemas.android.com/apk/res-auto"
+    android:orientation="vertical"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:paddingBottom="@dimen/activity_vertical_margin"
+    android:paddingLeft="@dimen/activity_horizontal_margin"
+    android:paddingRight="@dimen/activity_horizontal_margin"
+    android:paddingTop="@dimen/activity_vertical_margin"
+    tools:context="com.seniorcontrol.administrator.volumechangecontrol.MainActivity">
+
+    <com.seniorcontrol.administrator.volumechangecontrol.VolumeChangeControl
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_gravity="center_horizontal"
+        android:layout_margin="50dp"
+        wl:volumeStep="9"
+        wl:firstColor="#ff0000"
+        wl:secondColor="#00ff00"
+        wl:circleWidth="30px"
+        wl:defaultVolume="6"
+        wl:image="@mipmap/ic_launcher"
+        wl:stepDegrees="6"
+        wl:stepBlankDegrees="30"/>
+
+    <com.seniorcontrol.administrator.volumechangecontrol.VolumeChangeControl
+        android:layout_width="wrap_content"
+        android:layout_height="300dp"
+        android:layout_gravity="center_horizontal"
+        android:layout_margin="50dp"
+        wl:volumeStep="12"
+        wl:firstColor="#ff00ff"
+        wl:secondColor="#00ff88"
+        wl:circleWidth="40px"
+        wl:defaultVolume="3"
+        wl:image="@drawable/test"
+        wl:stepDegrees="10"
+        wl:stepBlankDegrees="15"/>
+</LinearLayout>

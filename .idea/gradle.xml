@@ -9,19 +9,59 @@
         <option name="modules">
           <set>
             <option value="$PROJECT_DIR$" />
+            <option value="$PROJECT_DIR$/aidl" />
+            <option value="$PROJECT_DIR$/aidlclient" />
             <option value="$PROJECT_DIR$/app" />
             <option value="$PROJECT_DIR$/csdnProject" />
+            <option value="$PROJECT_DIR$/customview" />
+            <option value="$PROJECT_DIR$/eventbus" />
+            <option value="$PROJECT_DIR$/expandablelistview" />
+            <option value="$PROJECT_DIR$/gobang" />
+            <option value="$PROJECT_DIR$/httpregist" />
+            <option value="$PROJECT_DIR$/imagewall" />
+            <option value="$PROJECT_DIR$/navigationview" />
+            <option value="$PROJECT_DIR$/progressbar" />
+            <option value="$PROJECT_DIR$/progressview" />
+            <option value="$PROJECT_DIR$/recyclerview" />
+            <option value="$PROJECT_DIR$/scrathcard" />
+            <option value="$PROJECT_DIR$/upload_from_break" />
             <option value="$PROJECT_DIR$/viewPagerIndicator_library" />
+            <option value="$PROJECT_DIR$/viewdrag" />
+            <option value="$PROJECT_DIR$/viewgroup" />
             <option value="$PROJECT_DIR$/viewpager" />
+            <option value="$PROJECT_DIR$/vollley" />
+            <option value="$PROJECT_DIR$/volumechangecontrol" />
+            <option value="$PROJECT_DIR$/webview" />
+            <option value="$PROJECT_DIR$/zoomimage" />
           </set>
         </option>
         <option name="myModules">
           <set>
             <option value="$PROJECT_DIR$" />
+            <option value="$PROJECT_DIR$/aidl" />
+            <option value="$PROJECT_DIR$/aidlclient" />
             <option value="$PROJECT_DIR$/app" />
             <option value="$PROJECT_DIR$/csdnProject" />
+            <option value="$PROJECT_DIR$/customview" />
+            <option value="$PROJECT_DIR$/eventbus" />
+            <option value="$PROJECT_DIR$/expandablelistview" />
+            <option value="$PROJECT_DIR$/gobang" />
+            <option value="$PROJECT_DIR$/httpregist" />
+            <option value="$PROJECT_DIR$/imagewall" />
+            <option value="$PROJECT_DIR$/navigationview" />
+            <option value="$PROJECT_DIR$/progressbar" />
+            <option value="$PROJECT_DIR$/progressview" />
+            <option value="$PROJECT_DIR$/recyclerview" />
+            <option value="$PROJECT_DIR$/scrathcard" />
+            <option value="$PROJECT_DIR$/upload_from_break" />
             <option value="$PROJECT_DIR$/viewPagerIndicator_library" />
+            <option value="$PROJECT_DIR$/viewdrag" />
+            <option value="$PROJECT_DIR$/viewgroup" />
             <option value="$PROJECT_DIR$/viewpager" />
+            <option value="$PROJECT_DIR$/vollley" />
+            <option value="$PROJECT_DIR$/volumechangecontrol" />
+            <option value="$PROJECT_DIR$/webview" />
+            <option value="$PROJECT_DIR$/zoomimage" />
           </set>
         </option>
       </GradleProjectSettings>

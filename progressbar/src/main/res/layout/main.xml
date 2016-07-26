@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:wl="http://schemas.android.com/apk/res-auto"
+    android:orientation="vertical" android:layout_width="match_parent"
+    android:layout_height="match_parent">
+<com.seniorcontrol.administrator.progressbar.HorizontalProgressBar
+    android:id="@+id/progress"
+    android:layout_width="match_parent"
+    android:layout_height="wrap_content"
+    android:layout_margin="10dp"
+    android:padding="10dp"
+    android:progress="0"
+    wl:progress_reach_width="8dp"
+    wl:progress_reach_color="#ffff0000"
+    wl:progress_unreach_color="#ff00ff00"
+    wl:progress_unreach_width="3dp"
+    wl:progress_text_size="20sp"
+    wl:progress_text_color="#ff0000ff"
+    wl:progress_text_offset="10dp"/>
+</LinearLayout>
